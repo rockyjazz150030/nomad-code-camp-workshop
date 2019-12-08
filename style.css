@@ -1,0 +1,31 @@
+.logo {
+    width:50px;
+    height:50px;
+    
+}
+
+.logo-navigation {
+
+display:flex;
+justify-content: flex-start;
+
+}
+
+
+.button-search {
+    display:flex;
+    justify-content: flex-start;
+
+}
+
+
+.full-navigation {
+display:flex;
+justify-content: space-between;
+background-color: rgb(178, 180, 27);
+}
+
+p {
+
+    color: turquoise;
+}
